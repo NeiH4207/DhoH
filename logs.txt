@@ -1,0 +1,489 @@
+Finished DHO: [5874.70022973]
+Total excution time: 200.556s
+
+Finished DHO: [2028.51100967]
+Total excution time: 200.402s
+
+Finished DHO: [2027.93543475]
+Total excution time: 203.795s
+
+Finished DHO: [2033.6257449]
+Total excution time: 203.794s
+
+Finished DHO: [2200.00032716]
+Total excution time: 203.9s
+
+Finished DHO: [2200.00088131]
+Total excution time: 204.065s
+
+Finished DHO: [2200.03447801]
+Total excution time: 204.147s
+
+Finished DHO: [2043.4883013]
+Total excution time: 203.79s
+
+Finished DHO: [2200.00055584]
+Total excution time: 203.682s
+
+Finished DHO: [2035.15778851]
+Total excution time: 204.039s
+
+Finished DHO: [2200.00070774]
+Total excution time: 203.708s
+
+Finished DHO: [2200.00073053]
+Total excution time: 203.681s
+
+Finished DHO: [2032.20334568]
+Total excution time: 204.144s
+
+Finished DHO: [2034.49733345]
+Total excution time: 203.996s
+
+Finished DHO: [2200.00780925]
+Total excution time: 204.188s
+
+Finished DHO: [2031.0136727]
+Total excution time: 203.935s
+
+Finished DHO: [2034.46500003]
+Total excution time: 203.81s
+
+Finished DHO: [2041.1298983]
+Total excution time: 203.486s
+
+Finished DHO: [2039.83177277]
+Total excution time: 203.899s
+
+Finished DHO: [2200.00199792]
+Total excution time: 203.915s
+
+Finished DHO: [2200.00101412]
+Total excution time: 203.707s
+
+Finished DHO: [2200.00057104]
+Total excution time: 203.914s
+
+Finished DHO: [2022.97315401]
+Total excution time: 202.437s
+
+Finished DHO: [2200.00068516]
+Total excution time: 203.684s
+
+Finished DHO: [2033.2692606]
+Total excution time: 203.995s
+
+Finished DHO: [2200.00028418]
+Total excution time: 203.843s
+
+Finished DHO: [2031.81375727]
+Total excution time: 203.9s
+
+Finished DHO: [2200.00075952]
+Total excution time: 203.685s
+
+Finished DHO: [2036.67323672]
+Total excution time: 203.511s
+
+Finished DHO: [2034.10143875]
+Total excution time: 203.624s
+
+Finished DHO: [2030.67705142]
+Total excution time: 203.762s
+
+Finished DHO: [2200.00049419]
+Total excution time: 204.093s
+
+Finished DHO: [2038.58557016]
+Total excution time: 203.822s
+
+Finished DHO: [2200.00045454]
+Total excution time: 203.87s
+
+Finished DHO: [2025.40981587]
+Total excution time: 203.56s
+
+Finished DHO: [2200.01999856]
+Total excution time: 203.721s
+
+Finished DHO: [2200.16294194]
+Total excution time: 203.511s
+
+Finished DHO: [2027.76002491]
+Total excution time: 203.274s
+
+Finished DHO: [2200.00028619]
+Total excution time: 203.338s
+
+Finished DHO: [2200.00198891]
+Total excution time: 203.726s
+
+Finished DHO: [2200.00072883]
+Total excution time: 203.669s
+
+Finished DHO: [2006.73795091]
+Total excution time: 203.511s
+
+Finished DHO: [2200.95923618]
+Total excution time: 201.999s
+
+Finished DHO: [2200.09126882]
+Total excution time: 203.84s
+
+Finished DHO: [2200.15968457]
+Total excution time: 203.824s
+
+Finished DHO: [2036.09107205]
+Total excution time: 203.587s
+
+Finished DHO: [2035.93218038]
+Total excution time: 203.169s
+
+Finished DHO: [2040.52365892]
+Total excution time: 203.59s
+
+Finished DHO: [2030.81849842]
+Total excution time: 203.47s
+
+Finished DHO: [2079.26304098]
+Total excution time: 203.42s
+
+Finished DHO: [2200.53047814]
+Total excution time: 203.493s
+
+Finished DHO: [2033.44345604]
+Total excution time: 203.096s
+
+Finished DHO: [2036.52655578]
+Total excution time: 203.714s
+
+Finished DHO: [2200.11563236]
+Total excution time: 203.807s
+
+Finished DHO: [2201.43307574]
+Total excution time: 203.355s
+
+Finished DHO: [2037.26905507]
+Total excution time: 203.402s
+
+Finished DHO: [2040.09269031]
+Total excution time: 203.688s
+
+Finished DHO: [2201.68055231]
+Total excution time: 203.306s
+
+Finished DHO: [2200.11133753]
+Total excution time: 203.916s
+
+Finished DHO: [2200.10253424]
+Total excution time: 203.284s
+
+Finished DHO: [2045.60258679]
+Total excution time: 203.219s
+
+Finished DHO: [2200.1155993]
+Total excution time: 203.38s
+
+Finished DHO: [2200.25656756]
+Total excution time: 202.945s
+
+Finished DHO: [2200.15937798]
+Total excution time: 203.84s
+
+Finished DHO: [2039.10525476]
+Total excution time: 204.049s
+
+Finished DHO: [2200.09789562]
+Total excution time: 203.647s
+
+Finished DHO: [2200.16616677]
+Total excution time: 203.545s
+
+Finished DHO: [2036.80902488]
+Total excution time: 203.713s
+
+Finished DHO: [2200.09678178]
+Total excution time: 203.444s
+
+Finished DHO: [2028.34297366]
+Total excution time: 203.482s
+
+Finished DHO: [2035.51965155]
+Total excution time: 203.693s
+
+Finished DHO: [2200.09364438]
+Total excution time: 203.864s
+
+Finished DHO: [2036.49318175]
+Total excution time: 203.559s
+
+Finished DHO: [2200.12333107]
+Total excution time: 203.631s
+
+Finished DHO: [2049.46268787]
+Total excution time: 203.422s
+
+Finished DHO: [2043.67392505]
+Total excution time: 203.377s
+
+Finished DHO: [2039.09323302]
+Total excution time: 203.608s
+
+Finished DHO: [2200.08116429]
+Total excution time: 203.873s
+
+Finished DHO: [2017.61970098]
+Total excution time: 203.489s
+
+Finished DHO: [2200.08990581]
+Total excution time: 203.783s
+
+Finished DHO: [2047.82079622]
+Total excution time: 203.578s
+
+Finished DHO: [2200.08464737]
+Total excution time: 203.816s
+
+Finished DHO: [2025.25605229]
+Total excution time: 202.347s
+
+Finished DHO: [2200.0455955]
+Total excution time: 204.233s
+
+Finished DHO: [2037.89515113]
+Total excution time: 204.071s
+
+Finished DHO: [2025.03624736]
+Total excution time: 204.108s
+
+Finished DHO: [2030.75635689]
+Total excution time: 203.743s
+
+Finished DHO: [2200.04441733]
+Total excution time: 203.869s
+
+Finished DHO: [2031.53563391]
+Total excution time: 203.881s
+
+Finished DHO: [2200.04782512]
+Total excution time: 203.723s
+
+Finished DHO: [2200.08920337]
+Total excution time: 203.798s
+
+Finished DHO: [2048.72452224]
+Total excution time: 203.696s
+
+Finished DHO: [2200.03099898]
+Total excution time: 203.702s
+
+Finished DHO: [2036.58054146]
+Total excution time: 203.671s
+
+Finished DHO: [2039.02850301]
+Total excution time: 204.063s
+
+Finished DHO: [2200.04539035]
+Total excution time: 204.04s
+
+Finished DHO: [2200.03611114]
+Total excution time: 203.905s
+
+Finished DHO: [2200.04514017]
+Total excution time: 203.611s
+
+Finished DHO: [2200.03916448]
+Total excution time: 203.774s
+
+Finished DHO: [2045.45112657]
+Total excution time: 203.801s
+
+Finished DHO: [2031.47467649]
+Total excution time: 203.776s
+
+Finished DHO: [2200.04393339]
+Total excution time: 203.997s
+
+Finished DHO: [2034.96880194]
+Total excution time: 203.209s
+
+Finished DHO: [2202.268945]
+Total excution time: 203.806s
+
+Finished DHO: [2065.81716945]
+Total excution time: 203.655s
+
+Finished DHO: [2200.36435936]
+Total excution time: 203.753s
+
+Finished DHO: [2200.33792383]
+Total excution time: 203.593s
+
+Finished DHO: [2035.5401802]
+Total excution time: 203.705s
+
+Finished DHO: [2200.45236443]
+Total excution time: 203.587s
+
+Finished DHO: [2200.2202461]
+Total excution time: 203.651s
+
+Finished DHO: [2200.23139232]
+Total excution time: 203.604s
+
+Finished DHO: [2201.09628614]
+Total excution time: 203.847s
+
+Finished DHO: [2042.17246397]
+Total excution time: 203.977s
+
+Finished DHO: [2202.33660382]
+Total excution time: 203.659s
+
+Finished DHO: [2033.25720118]
+Total excution time: 203.285s
+
+Finished DHO: [2052.19756624]
+Total excution time: 203.775s
+
+Finished DHO: [2039.58713545]
+Total excution time: 203.475s
+
+Finished DHO: [2048.36236377]
+Total excution time: 203.96s
+
+Finished DHO: [2200.23098951]
+Total excution time: 203.59s
+
+Finished DHO: [2041.13544523]
+Total excution time: 203.5s
+
+Finished DHO: [2200.33522253]
+Total excution time: 203.313s
+
+Finished DHO: [2042.13874103]
+Total excution time: 203.468s
+
+Finished DHO: [2035.80299696]
+Total excution time: 202.419s
+
+Finished DHO: [2202.93348298]
+Total excution time: 203.539s
+
+Finished DHO: [2059.89631817]
+Total excution time: 203.629s
+
+Finished DHO: [2038.57340938]
+Total excution time: 203.694s
+
+Finished DHO: [2051.51890403]
+Total excution time: 203.539s
+
+Finished DHO: [2203.11040787]
+Total excution time: 203.766s
+
+Finished DHO: [2324.65934309]
+Total excution time: 203.504s
+
+Finished DHO: [2200.50651403]
+Total excution time: 203.826s
+
+Finished DHO: [2042.87754004]
+Total excution time: 203.331s
+
+Finished DHO: [2065.05755269]
+Total excution time: 203.382s
+
+Finished DHO: [2202.11582881]
+Total excution time: 203.45s
+
+Finished DHO: [2202.61384166]
+Total excution time: 203.403s
+
+Finished DHO: [2046.54354288]
+Total excution time: 203.314s
+
+Finished DHO: [2201.72340067]
+Total excution time: 203.27s
+
+Finished DHO: [2041.35213849]
+Total excution time: 203.357s
+
+Finished DHO: [2201.08756512]
+Total excution time: 203.634s
+
+Finished DHO: [2201.89487467]
+Total excution time: 203.343s
+
+Finished DHO: [2046.06172176]
+Total excution time: 203.55s
+
+Finished DHO: [2201.49173081]
+Total excution time: 203.27s
+
+Finished DHO: [2046.63588259]
+Total excution time: 203.266s
+
+Finished DHO: [2221.41002178]
+Total excution time: 201.102s
+
+Finished DHO: [2208.95918949]
+Total excution time: 203.749s
+
+Finished DHO: [2366.07726005]
+Total excution time: 203.882s
+
+Finished DHO: [2130.03593816]
+Total excution time: 203.931s
+
+Finished DHO: [2213.68658859]
+Total excution time: 203.621s
+
+Finished DHO: [2233.33411429]
+Total excution time: 203.831s
+
+Finished DHO: [2234.39913808]
+Total excution time: 203.918s
+
+Finished DHO: [2215.16040735]
+Total excution time: 203.961s
+
+Finished DHO: [2181.41270894]
+Total excution time: 203.453s
+
+Finished DHO: [2212.32628772]
+Total excution time: 203.73s
+
+Finished DHO: [2224.53256447]
+Total excution time: 203.688s
+
+Finished DHO: [2388.61345212]
+Total excution time: 204.022s
+
+Finished DHO: [2146.20501515]
+Total excution time: 203.647s
+
+Finished DHO: [2199.64191545]
+Total excution time: 203.562s
+
+Finished DHO: [2235.62057601]
+Total excution time: 203.668s
+
+Finished DHO: [2234.37371133]
+Total excution time: 203.951s
+
+Finished DHO: [2169.16391468]
+Total excution time: 203.428s
+
+Finished DHO: [2234.72374007]
+Total excution time: 203.818s
+
+Finished DHO: [2243.54112837]
+Total excution time: 203.513s
+
+Finished DHO: [2244.67655372]
+Total excution time: 203.941s
+
+Finished DHO: [2192.73829379]
+Total excution time: 200.433s
+
