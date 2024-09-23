@@ -16,29 +16,29 @@ from models.algorithms.HI_WOA import HI_WOA
 from models.algorithms.LSHADE import L_SHADE
 from models.algorithms.RCGA_rdn import ImprovedGA
 from models.algorithms.SMA import BaseSMA, OriginalSMA
+from models.algorithms.I_GWO import I_GWO
 from models.benchmark.cec2011.cec2011_class import *
 
 
 def parse_arguments():
     parser = ArgumentParser()
 
-    functions = [Problem01, Problem02, Problem03, Problem04, Problem05, Problem06, Problem07, Problem08,
+    functions = [Problem01, Problem02, Problem03, Problem04, Problem05, Problem06, Problem07,
                  Problem09, Problem10, Problem11_1, Problem11_2, Problem11_3, Problem11_4, Problem11_5,
-                 Problem11_6, Problem11_7, Problem11_8, Problem11_9, Problem11_10, Problem12, Problem13]
+                 Problem11_6, Problem11_8, Problem11_9, Problem11_10, Problem12, Problem13]
     algorithms = [HI_WOA, ImprovedGA,
                   OriginalGSKA, OriginalHGS, L_SHADE,
-                  BaseSMA, OriginalSMA, AdaptiveEO, DHO]
+                  BaseSMA, AdaptiveEO, I_GWO, DHO]
 
     parser.add_argument('-f', '--functions', default=functions, help='list of benchmark functions')
     parser.add_argument('-a', '--algorithms', default=algorithms, help='list of test algorithms')
-    parser.add_argument('-r', '--run', type=int, default=50, help='number of run times')
     parser.add_argument('-e', '--epoch_bound', type=int, default=250, help='number of iterations')
     parser.add_argument('-p', '--pop-size', type=int, default=100, help='population size')
     parser.add_argument('-o', '--output', default='./output_rw', help='output path')
     parser.add_argument('-j', '--jobs', type=int, default=80, help='number of parallel processes')
     parser.add_argument('-m', '--multiprocessing', default=True, help='Run on multiprocessing')
     parser.add_argument('-t', '--time_bound', default=200, type=int, help='Time bound for trainning (s)')
-    parser.add_argument('-fes', '--fes_bound', default=50000, type=int,
+    parser.add_argument('-fes', '--fes_bound', default=150000, type=int,
                         help='Function evaluation bound for trainning (s)')
     parser.add_argument('-v', '--verbose', action='store_true', help='verbose mode')
     parser.add_argument('-n', '--n_trials', default=3, type=int, help='number of trials')

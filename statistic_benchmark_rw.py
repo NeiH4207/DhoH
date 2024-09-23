@@ -85,6 +85,9 @@ if __name__ == '__main__':
             fitness = []
             df_concat = None
             for iter in range(0, args.n_trials):
+                path = os.path.join(save_path, str(iter), algorithm.__name__ + '.csv')
+                if not os.path.exists(path):
+                    continue
                 df = read_csv(os.path.join(save_path, str(iter), algorithm.__name__ + '.csv'))
                 # df = df.apply(lambda x: np.log(x))
                 fitness.append(df['fitness'].min())
@@ -93,42 +96,45 @@ if __name__ == '__main__':
                     df_concat = df
                 else:
                     df_concat = pd.merge(df_concat, df, on='ID')
-            data[algorithm().name] = df_concat.mean(axis=1)
-            # set limit rows (500)
-            data = data.iloc[:500]
-            # fill nan values with min value
-            data[algorithm().name] = data[algorithm().name].fillna(data[algorithm().name].min())
-            best_result.append(np.mean(fitness))
-            std.append(np.std(fitness))
+            if len(fitness) == 0:
+                best_result.append('_')
+#             data[algorithm().name] = df_concat.mean(axis=1)
+#             # set limit rows (500)
+#             data = data.iloc[:500]
+#             # fill nan values with min value
+#             data[algorithm().name] = data[algorithm().name].fillna(data[algorithm().name].min())
+            else:
+                best_result.append(np.mean(fitness))
+#             std.append(np.std(fitness))
 
         # ranking for each algorithm
-        ranking[function_name] = ranking_values(best_result)
+#         ranking[function_name] = ranking_values(best_result)
         final_result[function_name] = best_result
-        std_result[function_name] = std
-        data.plot()
-        plt.xlabel('epoch')
-        plt.ylabel('Fitness (log)')
-        # set log view
-        plt.yscale('log')
-        # save figure
-        save_path = os.path.join(args.fig_path, args.mode)
-        if not os.path.exists(save_path):
-            os.makedirs(save_path)
-        plt.savefig(os.path.join(save_path, function_name + '.pdf'))
-        plt.savefig(os.path.join(save_path, function_name + '.png'))
-        # plt.show()
-        save_path = os.path.join(args.output, args.mode, 'results')
-        if not os.path.exists(save_path):
-            os.makedirs(save_path)
-        data.to_csv(os.path.join(save_path, function_name + '.csv'))
+#         std_result[function_name] = std
+#         data.plot()
+#         plt.xlabel('epoch')
+#         plt.ylabel('Fitness (log)')
+#         # set log view
+#         plt.yscale('log')
+#         # save figure
+#         save_path = os.path.join(args.fig_path, args.mode)
+#         if not os.path.exists(save_path):
+#             os.makedirs(save_path)
+#         plt.savefig(os.path.join(save_path, function_name + '.pdf'))
+#         plt.savefig(os.path.join(save_path, function_name + '.png'))
+#         # plt.show()
+#         save_path = os.path.join(args.output, args.mode, 'results')
+#         if not os.path.exists(save_path):
+#             os.makedirs(save_path)
+#         data.to_csv(os.path.join(save_path, function_name + '.csv'))
 
-    ranking_df = DataFrame(ranking, index=[algorithm().name for algorithm in args.algorithms],
-                           columns=args.functions)
-    ranking_df.to_csv(os.path.join(args.output, args.mode, 'ranking.csv'))
+#     ranking_df = DataFrame(ranking, index=[algorithm().name for algorithm in args.algorithms],
+#                            columns=args.functions)
+#     ranking_df.to_csv(os.path.join(args.output, args.mode, 'ranking.csv'))
 
     final_result_df = DataFrame(final_result, index=[algorithm().name for algorithm in args.algorithms],
-                                columns=args.functions)
+                                columns=[function.__name__ for function in args.functions])
     final_result_df.to_csv(os.path.join(args.output, args.mode, 'final_result.csv'))
-    std_result_df = DataFrame(std_result, index=[algorithm().name for algorithm in args.algorithms],
-                              columns=args.functions)
-    std_result_df.to_csv(os.path.join(args.output, args.mode, 'std_result.csv'))
+#     std_result_df = DataFrame(std_result, index=[algorithm().name for algorithm in args.algorithms],
+#                               columns=args.functions)
+#     std_result_df.to_csv(os.path.join(args.output, args.mode, 'std_result.csv'))
